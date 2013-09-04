@@ -1,0 +1,13 @@
+{
+  "name": "PicTalk",
+  "description": "Talking app for autism students",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Shameer",
+    "url": "http://your-homepage-here.org"
+  },
+  "default_locale": "en"
+}
